@@ -1,0 +1,8 @@
+@InProceedings{AcunaICML21_fDAL,
+  title = 	 {f-Domain-Adversarial Learning: Theory and Algorithms},
+  author =       {Acuna, David and Zhang, Guojun and Law, Marc and Fidler, Sanja },
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {66--75},
+  year = 	 {2021},
+  publisher =    {PMLR},
+}
